@@ -1,9 +1,10 @@
-<img src="https://komarev.com/ghpvc/?username=nolimxt&color=202020"/>
+<!-- Profil görüntüleme sayacı -->
+<img src="https://komarev.com/ghpvc/?username=nolimxt&color=202020" alt="Profile Views"/>
 
-![]![image](https://github.com/user-attachments/assets/8c5020e4-cbe4-4ef7-9474-3b2304a5370e)
-)
+<!-- Hatalı görsel bağlantısı vardı, eğer tam URL varsa aşağıya ekle -->
+ ![image](https://github.com/user-attachments/assets/8c5020e4-cbe4-4ef7-9474-3b2304a5370e) 
 
-# © 
+---
 
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/schmerzhaft)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/revengekill)
@@ -13,4 +14,4 @@
 
 ## @erisilmez
 
-> *Communication ; baransql@gmail.com*
+> *Communication: baransql@gmail.com*
