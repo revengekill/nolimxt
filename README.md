@@ -3,7 +3,8 @@
 
 <!-- Banner -->
 <p align="center">
-![combined_profiles](https://github.com/user-attachments/assets/29d5eb0e-0669-4a31-8bf5-98da68f8f3fc)
+  <img src="https://github.com/user-attachments/assets/29d5eb0e-0669-4a31-8bf5-98da68f8f3fc" alt="banner" width="100%" />
+</p>
 
 ---
 
