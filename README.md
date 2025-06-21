@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=nolimxt&color=202020" alt="Profile views" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/revengekill/revengekill/main/banner.png" alt="banner" width="100%" />
+  <img src="https://hizliresim.com/rnv6xfm" alt="banner" width="100%" />
 </p>
 
 ---
