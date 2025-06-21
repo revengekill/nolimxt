@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=nolimxt&color=202020"/>
 
-![image]([https://github.com/user-attachments/assets/8c5020e4-cbe4-4ef7-9474-3b2304a5370e](https://hizliresim.com/qdg9vwk))
+![image](https://hizliresim.com/qdg9vwk)
 )
 
 # © 
