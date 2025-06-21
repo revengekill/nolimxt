@@ -1,7 +1,9 @@
+<!-- Profil Görüntüleme Sayacı -->
 <img src="https://komarev.com/ghpvc/?username=nolimxt&color=202020" alt="Profile views" />
 
+<!-- Banner -->
 <p align="center">
-  <img src="https://hizliresim.com/rnv6xfm" alt="banner" width="100%" />
+  <img src="https://i.hizliresim.com/rnv6xfm.png" alt="banner" width="100%" />
 </p>
 
 ---
@@ -16,7 +18,7 @@
 
 ### 📱 Reach Me
 
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/schmerzhaft)
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/schmerzhaft)  
 > **Discord Username:** `@erisilmez X @asdcqwe`
 
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/revengekill)  
