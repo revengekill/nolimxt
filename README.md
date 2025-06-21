@@ -3,8 +3,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.hizliresim.com/rnv6xfm.png" alt="banner" width="100%" />
-</p>
+![combined_profiles](https://github.com/user-attachments/assets/29d5eb0e-0669-4a31-8bf5-98da68f8f3fc)
 
 ---
 
